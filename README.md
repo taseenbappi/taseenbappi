@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/taseenbappi](https://github.com/taseenbappi)
 
-- 💬 Ask me about **react.js, JavaScript, Node.js, mongoDB, Express.js**
+- 💬 Ask me about **JavaScript, ReactJs**
 
 - 📫 How to reach me **taseen.bappi@gmail.com**
 
