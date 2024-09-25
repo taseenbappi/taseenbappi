@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **taseen.bappi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xU1IFqYlTve8Nw2NnAhoKCiCvvb96-iB/view?usp=sharing](https://drive.google.com/file/d/1xU1IFqYlTve8Nw2NnAhoKCiCvvb96-iB/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://twitter.com/taseen_bappi" target="blank">Resume</a>
 
 - ⚡ Fun fact **Problem finder**
 
