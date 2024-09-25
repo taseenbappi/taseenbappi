@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/taseenbappi](https://github.com/taseenbappi)
 
-- 💬 Ask me about **JavaScript, ReactJs**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJs, NextJs, NestJs**
 
 - 📫 How to reach me **taseen.bappi@gmail.com**
 
