@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/taseen_bappi" target="blank"><img src="https://img.shields.io/twitter/follow/taseen_bappi?logo=twitter&style=for-the-badge" alt="taseen_bappi" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Technology**
+- 🌱 Expert for **Frontend Technology**
+- 🌱 I’m currently learning **Backend Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/taseenbappi](https://github.com/taseenbappi)
 
